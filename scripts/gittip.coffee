@@ -17,8 +17,10 @@ module.exports = (robot) ->
 
   apiKey = process.env.HUBOT_GITTIP_APIKEY
   username = process.env.HUBOT_GITTIP_USERNAME
-  maxTip = process.env.HUBOT_GITTIP_MAXTIP
   endpoint = "https://#{apiKey}:@www.gittip.com"
+
+  # TODO: Enforce max tip.
+  maxTip = process.env.HUBOT_GITTIP_MAXTIP
 
   unless apiKey and username and maxTip
     console.log "gittip.coffee: HUBOT_GITTIP_APIKEY, HUBOT_GITTIP_USERNAME and HUBOT_GITTIP_MAXTIP are required."
