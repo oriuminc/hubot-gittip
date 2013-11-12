@@ -1,0 +1,24 @@
+{
+  "name": "hubot-gittip",
+  "version": "0.0.1",
+  "description": "A Hubot script for interacting with a shared Gittip account",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myplanetdigital/hubot-gittip"
+  },
+  "keywords": [
+    "gittip",
+    "hubot",
+    "script"
+  ],
+  "author": "patcon@myplanetdigital",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "array-query": "*"
+  }
+}

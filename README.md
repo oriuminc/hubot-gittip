@@ -1,4 +1,5 @@
 ## hubot-gittip
 
-This is a work in progress. Does not currently work as an npm package,
-but is just a code stub.
+A Hubot script for interacting with a shared Gittip account.
+
+See `scripts/gittip.coffee` for full documentation.

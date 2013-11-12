@@ -1,8 +1,5 @@
 # Description:
-#   View and manage Gittip gifts for a specific user.
-#
-# Dependencies:
-#   array-query
+#   A Hubot script for interacting with a shared Gittip account.
 #
 # Configuration:
 #   HUBOT_GITTIP_APIKEY
