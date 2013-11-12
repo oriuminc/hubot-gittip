@@ -27,10 +27,10 @@ module.exports = (robot) ->
   REGEX = ///
     gittip
     (        # 1)
-      \ +    #    whitespace
+      \s+    #    whitespace
       (\S+)   # 2) cmd
       (      # 3)
-        \ +  #    whitespace
+        \s+  #    whitespace
         (.+) # 4) arg
       )?
     )
