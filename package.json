@@ -1,6 +1,6 @@
 {
   "name": "hubot-gittip",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Hubot script for interacting with a shared Gittip account",
   "main": "index.coffee",
   "scripts": {
