@@ -33,4 +33,4 @@ doing good things here :)
 [7:44 PM] pantzbot: $10.00 => Gittip
 ```
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/myplanetdigital/hubot-gittip/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/myplanetdigital/hubot-gittip/trend.png)](https://bitdeli.com/myplanetdigital "Bitdeli Badge")
